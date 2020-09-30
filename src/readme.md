@@ -30,5 +30,5 @@ How to see an example of the collection:
 
 Creator
 =======
-NeVeN (Koliushko Artem)
+Koliushko Artem
 -----------------------
